@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "lcf.h": "c",
+        "sprites.h": "c",
+        "lab5.h": "c",
+        "pixmap.h": "c",
+        "stddef.h": "c",
+        "*.xpm": "c",
+        "xpm.h": "c",
+        "videocard.h": "c",
+        "chrono": "c"
+    }
+}
